@@ -8,7 +8,7 @@
 
 =abstract start
 
-The other day I got a complain that my Perl script uses too much memory. So I needed a way to check it an monitor it.
+The other day I got a complaint that my Perl script uses too much memory. So I needed a way to check it an monitor it.
 I found <a href="https://metacpan.org/pod/Memory::Usage">Memory::Usage</a> on CPAN.
 Although it only work on <b>Linux</b> (not even on BSD or Mac OSX), but was quite useful there.
 
